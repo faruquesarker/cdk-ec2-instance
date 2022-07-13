@@ -1,7 +1,9 @@
 
-# Create EC2 Instance in new VPC with Systems Manager enabled and tag the resources for cost-optimization
+# CDK EC2 Instance Stack with Custom Tags 
 
-This code is based on the (example CDK code project)[https://github.com/aws-samples/aws-cdk-examples/tree/master/python/ec2/instance].
+This repo will create EC2 Instance in new VPC with Systems Manager enabled and tag the resources for cost-optimization
+
+This code is based on the [example CDK code project](https://github.com/aws-samples/aws-cdk-examples/tree/master/python/ec2/instance).
 
 This example includes:
 
