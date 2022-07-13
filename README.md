@@ -1,5 +1,5 @@
 
-# CDK EC2 Instance Stack with Custom Tags 
+# CDK EC2 Instance Stack with Custom Resource Tags 
 
 This repo will create EC2 Instance in new VPC with Systems Manager enabled and tag the resources for cost-optimization
 
